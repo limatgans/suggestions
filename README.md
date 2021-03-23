@@ -26,24 +26,26 @@ A Repo for my random suggestions
 
 ### Tech Stack
 1. [NodeJS](https://nodejs.org/)
-2. [MongoDB](https://www.mongodb.com/)
-3. [Postgres](https://www.postgresql.org/)
-4. [Angular](https://angular.io)
-5. [Express](https://expressjs.com/)
+2. [Express](https://expressjs.com/)
+3. [MongoDB](https://www.mongodb.com/)
+4. [React](https://reactjs.org/)
+5. [Postgres](https://www.postgresql.org/)
+6. [Angular](https://angular.io) - Been a while since I developed any app in Angular. Switched to React.
 
 ### DAW / Sound Editiors
 1. [FL Studio](https://www.image-line.com/flstudio/) - Very Costly. Supports Windows and Mac
-2. [Audacity](https://www.audacityteam.org/) Open Source Cross Platform Sound Editor
+2. [LMMS](https://lmms.io/) - Open Source Cross Platform - My Current DAW
+3. [Audacity](https://www.audacityteam.org/) Open Source Cross Platform Sound Editor
 
 ### Video Editing Software
 1. [Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)
 2. [ShotCut](https://shotcut.org/) - open source, cross-platform
 
 ### Online Streaming
-(Yet to try Spotify)
-1. [JioSaavn](https://www.jiosaavn.com/)
-2. [YouTube](https://www.youtube.com/)
-3. [BandCamp](https://bandcamp.com/)
+1. [JioSaavn](https://www.jiosaavn.com/) - For Indian Artists
+2. [Spotify](https://open.spotify.com/) - For Foreign Artists Catalog
+3. [YouTube](https://www.youtube.com/)
+4. [BandCamp](https://bandcamp.com/)
 
 
 ## Movies
@@ -79,13 +81,13 @@ A Repo for my random suggestions
 8. 
 
 ### Horror
-1. A Quiet Place
-2. Noroi: The Curse
-3. Uzumaki: The Spiral
+1. Noroi: The Curse
+2. Uzumaki: The Spiral
+3. A Quiet Place
 4. Insidious
 5. Conjuring
 6. Saw
-7. 
+7. Hereditary 
 
 ### Action/ Thriller
 1. John Wick (1-3)
